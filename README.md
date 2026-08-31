@@ -111,7 +111,7 @@ The dashboard helps identify:
 ```text
 Adidas-Sales-Analysis/
 │
-├── Adidas Sales Analysis Dashboard.pbix
-├── Adidas Sales Dataset.xlsx
-├── Adidas Sales Analysis Dashboard Image.png
+├── Dashboard Image
+├── Dataset
+├── pbix
 └── README.md
