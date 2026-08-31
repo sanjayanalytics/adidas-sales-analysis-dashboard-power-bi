@@ -121,3 +121,28 @@ Adidas-Sales-Analysis-Dashboard-Power-BI/
 │   └── Adidas Sales Analysis Dashboard Final.pbix
 │
 └── 📄 README.md
+
+## 🚀 Skills Demonstrated
+
+This project demonstrates practical skills in:
+
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Measures
+- KPI Development
+- Data Visualization
+- Interactive Dashboard Design
+- Business & Sales Analysis
+- Power BI Reporting
+
+---
+
+## 👨‍💻 Author
+
+**Sanjay Kumar Thakur**  
+*Aspiring Data Analyst*
+
+### 🔗 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/sanjay-kumar-thakur-data-analyst]
+- **GitHub:** [https://github.com/sanjayanalytics]
