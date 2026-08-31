@@ -109,9 +109,15 @@ The dashboard helps identify:
 ## 📂 Project Structure
 
 ```text
-Adidas-Sales-Analysis/
+Adidas-Sales-Analysis-Dashboard-Power-BI/
 │
-├── Dashboard Image
-├── Dataset
-├── pbix
-└── README.md
+├── 📁 Dashboard Image/
+│   └── Adidas Sales Analysis Dashboard Image.png
+│
+├── 📁 Dataset/
+│   └── Adidas US Sales_Datasets.xlsx
+│
+├── 📁 pbix/
+│   └── Adidas Sales Analysis Dashboard Final.pbix
+│
+└── 📄 README.md
