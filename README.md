@@ -144,5 +144,5 @@ This project demonstrates practical skills in:
 
 ### 🔗 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/sanjay-kumar-thakur-data-analyst]
-- **GitHub:** [https://github.com/sanjayanalytics]
+- **LinkedIn:** [Sanjay Kumar Thakur](https://www.linkedin.com/in/sanjay-kumar-thakur-data-analyst/)
+- **GitHub:** [sanjayanalytics](https://github.com/sanjayanalytics)
