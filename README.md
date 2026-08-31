@@ -122,6 +122,10 @@ Adidas-Sales-Analysis-Dashboard-Power-BI/
 │
 └── 📄 README.md
 
+'''
+---
+
+
 ## 🚀 Skills Demonstrated
 
 This project demonstrates practical skills in:
