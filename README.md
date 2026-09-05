@@ -31,7 +31,7 @@ The dashboard provides the following key performance indicators:
 - 📈 **Total Profit:** $332.13M
 - 📦 **Total Units Sold:** 18M
 - 💵 **Average Price per Unit:** $45.22
-- 📊 **Profit Margin:** 42.30%
+- 📊 **Average Profit Margin:** 42.30%
 
 ---
 
@@ -88,7 +88,7 @@ Users can dynamically filter the dashboard using:
 
 ## 📊 Dashboard Preview
 
-![Adidas Sales Analysis Dashboard](https://github.com/sanjayanalytics/adidas-sales-analysis-dashboard-power-bi/blob/b04ff7facbf4007632548b1970cdf79f06a5e5a8/Dashboard%20Image/Adidas%20Sales%20Analysis%20Dashboard%20Image.png)
+![Adidas Sales Analysis Dashboard](https://github.com/sanjayanalytics/adidas-sales-analysis-dashboard-power-bi/blob/a7308e58ceaad07bc76367889e1c6c2c082238b0/Dashboard%20Image/Adidas%20Sales%20Analysis%20Dashboard%20Image.png)
 
 ---
 
